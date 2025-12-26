@@ -4,16 +4,26 @@
 ---
 
 🎓 B.Tech (Electronics and Communication Engineering) student at **IIT (ISM) Dhanbad**.  
-💻 Interested in **Web Development, Backend Systems, and Software Engineering**.  
+💻 Interested in **Web Development and Software Engineering**.  
 📈 Actively building projects and solving algorithmic problems to strengthen core CS fundamentals.
 
+### 🧠 Competitive Programming
+Regularly solving problems on platforms like **LeetCode, Codeforces, and CodeChef** to improve problem-solving and algorithmic thinking
 ---
-
-### 🛠 Technical Skills
-- **Languages:** JavaScript, C++, HTML, CSS  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB (Mongoose)  
-- **Tools:** Git, GitHub, VS Code  
+## Let’s Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/vijay-saroj-b34aa9288" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vs2311" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+---
+## Languages and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,nodejs,express,react,mongodb,mysql,python,git,github,vscode" />
+</p>
 
 ---
 
@@ -33,8 +43,6 @@ Regularly solving problems on platforms like **LeetCode, Codeforces, and CodeChe
 
 ---
 
-### 🔗 Connect
-- GitHub: https://github.com/vs2311  
-- LinkedIn: https://www.linkedin.com/in/vijay-saroj-b34aa9288  
-- Email: 23je1085@iitism.ac.in
+</p>
+
 
