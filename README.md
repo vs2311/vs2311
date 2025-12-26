@@ -6,9 +6,6 @@
 🎓 B.Tech (Electronics and Communication Engineering) student at **IIT (ISM) Dhanbad**.  
 💻 Interested in **Web Development and Software Engineering**.  
 📈 Actively building projects and solving algorithmic problems to strengthen core CS fundamentals.
-
-### 🧠 Competitive Programming
-Regularly solving problems on platforms like **LeetCode, Codeforces, and CodeChef** to improve problem-solving and algorithmic thinking
 ---
 ## Let’s Connect
 <p align="left">
@@ -22,7 +19,7 @@ Regularly solving problems on platforms like **LeetCode, Codeforces, and CodeChe
 ---
 ## Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,nodejs,express,react,mongodb,mysql,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,express,react,mongodb,git,github" />
 </p>
 
 ---
@@ -38,10 +35,7 @@ Regularly solving problems on platforms like **LeetCode, Codeforces, and CodeChe
 
 ---
 
-### 🧠 Competitive Programming
-Regularly solving problems on platforms like **LeetCode, Codeforces, and CodeChef** to improve problem-solving and algorithmic thinking.
 
----
 
 </p>
 
