@@ -17,10 +17,11 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 ---
-## Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,express,react,mongodb,git,github" />
+## 🛠 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,nodejs,express,mongodb,git,github" />
 </p>
+
 
 ---
 
