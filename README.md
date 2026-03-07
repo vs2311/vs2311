@@ -51,7 +51,7 @@ Full-stack learning project with modular frontend and backend, RESTful APIs, and
 
 ---
 
-### 💬 Chat Application
+### 💬  Real-Time Chat Application
 Backend-focused chat application built to understand real-time communication and database interactions.
 
 🔗 https://github.com/vs2311/chat-app
