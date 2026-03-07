@@ -59,4 +59,26 @@ Backend-focused chat application built to understand real-time communication and
 ---
 
 ✨ *Always learning. Always building.*
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vs2311&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vs2311&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs2311&layout=compact&theme=tokyonight" />
+</p>
