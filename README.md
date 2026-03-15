@@ -43,6 +43,23 @@ Includes KPIs, YoY growth analysis, top products, and regional sales insights.
 🔗 https://github.com/vs2311/sales-insights-powerbi-dashboard
 
 ---
+ ### 📉 Customer Churn Analysis (Python, SQL, Power BI)
+
+End-to-end data analysis project to identify factors influencing customer churn.
+Includes data cleaning with Python, SQL-based exploration, and an interactive Power BI dashboard highlighting churn rate, contract trends, and customer behavior insights.
+
+🔗 https://github.com/vs2311/customer-churn-analysis
+
+---
+
+### 📺 Netflix Data Analysis (Python)
+
+Exploratory data analysis of Netflix content using Python, Pandas, and Matplotlib.
+Analyzes content trends, genre distribution, release patterns, and country-wise streaming insights.
+
+🔗 https://github.com/vs2311/netflix-data-analysis
+
+---
 
 ### 🛒 Mini E-Commerce Application
 Full-stack learning project with modular frontend and backend, RESTful APIs, and MongoDB integration.
@@ -57,6 +74,7 @@ Backend-focused chat application built to understand real-time communication and
 🔗 https://github.com/vs2311/chat-app
 
 ---
+
 
 ✨ *Always learning. Always building.*
 ---
