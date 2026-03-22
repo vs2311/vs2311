@@ -35,7 +35,11 @@
 ---
 
 ## 📌 Projects
-
+---
+⭐ End-to-End Data Analysis Project  
+Tools: Python | SQL | Power BI  
+Focus: Business Insights & Decision Making
+---
 ### 📊 Sales Insights Dashboard (Power BI)
 Interactive Power BI dashboard analyzing **₹517M+ revenue**, market performance, and monthly trends.  
 Includes KPIs, YoY growth analysis, top products, and regional sales insights.
