@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Vijay Saroj</h1>
-<h3 align="center">Aspiring Software Engineer | Data Analytics & Competitive Programming Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist| Data Analytics & Competitive Programming Enthusiast</h3>
 
 ---
 
 🎓 **B.Tech (Electronics and Communication Engineering)** student at **IIT (ISM) Dhanbad**  
-💻 Interested in **Software Development, Backend Systems, Data Analytics, and Scalable Applications**  
+💻 Interested in **Data Scientist, Backend Systems, Data Analytics, and Scalable Applications**  
 📈 Actively building projects and solving algorithmic problems to strengthen core CS fundamentals  
 
 ---
