@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vijay Saroj</h1>
-<h3 align="center">Aspiring Data Scientist| Data Analytics & Competitive Programming Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Data Analytics & Competitive Programming Enthusiast</h3>
 
 ---
 
