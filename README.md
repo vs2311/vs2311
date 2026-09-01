@@ -47,7 +47,7 @@ Includes KPIs, YoY growth analysis, top products, and regional sales insights.
 🔗 https://github.com/vs2311/sales-insights-powerbi-dashboard
 
 ---
- ### 📉 Customer Churn Analysis (Python, SQL, Power BI)
+ ### 📉 Customer Churn Analysis & Predictions (Python, SQL, Power BI , Sci-kit Learn)
 
 End-to-end data analysis project to identify factors influencing customer churn.
 Includes data cleaning with Python, SQL-based exploration, and an interactive Power BI dashboard highlighting churn rate, contract trends, and customer behavior insights.
