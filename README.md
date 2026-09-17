@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Vijay Saroj</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analytics & Competitive Programming Enthusiast</h3>
+<h1 align="center">Hi, I'm Vijay Saroj 👋</h1>
+<h3 align="center">Aspiring Data Scientist | Data Analytics & Machine Learning</h3>
 
 ---
 
-🎓 **B.Tech (Electronics and Communication Engineering)** student at **IIT (ISM) Dhanbad**  
-💻 Interested in **Data Scientist, Backend Systems, Data Analytics, and Scalable Applications**  
-📈 Actively building projects and solving algorithmic problems to strengthen core CS fundamentals  
+🎓 **B.Tech (Electronics & Communication Engineering)** student at **IIT (ISM) Dhanbad**  
+📊 Building projects in **Data Analytics, Machine Learning & Business Intelligence**  
+🐍 Working with **Python, SQL, Pandas, Scikit-learn, XGBoost & Power BI**  
+📈 Interested in turning data into **insights, predictions, and actionable decisions**
 
 ---
 
 ## 🔗 Let's Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/vijay-saroj-b34aa9288">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -22,68 +24,112 @@
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c++,js,html,css,nodejs,express,mongodb,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,github,jupyter" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-189?style=for-the-badge&logo=xgboost&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-## 📌 Projects
----
-⭐ End-to-End Data Analysis Project  
-Tools: Python | SQL | Power BI  
-Focus: Business Insights & Decision Making
----
-### 📊 Sales Insights Dashboard (Power BI)
-Interactive Power BI dashboard analyzing **₹517M+ revenue**, market performance, and monthly trends.  
-Includes KPIs, YoY growth analysis, top products, and regional sales insights.
+# 🚀 Featured Projects
 
-🔗 https://github.com/vs2311/sales-insights-powerbi-dashboard
+## 🏥 Health Insurance Cost Prediction
 
----
- ### 📉 Customer Churn Analysis & Predictions (Python, SQL, Power BI , Sci-kit Learn)
+**Python | Pandas | NumPy | Scikit-learn | Linear Regression | Seaborn**
 
-End-to-end data analysis project to identify factors influencing customer churn.
-Includes data cleaning with Python, SQL-based exploration, and an interactive Power BI dashboard highlighting churn rate, contract trends, and customer behavior insights.
+Machine learning project focused on predicting healthcare insurance costs using customer demographic and lifestyle attributes.
 
-🔗 https://github.com/vs2311/customer-churn-analysis
+- Performed data preprocessing and exploratory data analysis.
+- Analyzed relationships between customer attributes and insurance charges.
+- Built a **Linear Regression** model for insurance cost prediction.
+- Used Python-based visualization and statistical analysis to understand important patterns.
+
+🔗 **[View Project](https://github.com/vs2311/Health-care-insurance)**
 
 ---
 
-### 📺 Netflix Data Analysis (Python)
+## 📉 Customer Churn Analysis & Prediction
 
-Exploratory data analysis of Netflix content using Python, Pandas, and Matplotlib.
-Analyzes content trends, genre distribution, release patterns, and country-wise streaming insights.
+**Python | SQL | Power BI | Scikit-learn | XGBoost**
 
-🔗 https://github.com/vs2311/netflix-data-analysis
+End-to-end analytics and machine learning project analyzing **7,043 telecom customers** to understand churn behavior and identify high-risk customers.
 
----
+- Performed data cleaning, EDA and SQL-based analysis to identify major churn drivers.
+- Built and compared **Logistic Regression, Random Forest and XGBoost** classification models.
+- Achieved **84.03% ROC-AUC** with Logistic Regression.
+- Tuned the classification threshold from **0.50 → 0.45**, improving recall from **54.01% → 61.76%**.
+- Generated customer-level churn probabilities and identified **1,786 high-risk customers**.
+- Built an interactive **Power BI dashboard** for business insights.
 
-### 🛒 Mini E-Commerce Application
-Full-stack learning project with modular frontend and backend, RESTful APIs, and MongoDB integration.
-
-🔗 https://github.com/vs2311/mini-ecommerce
-
----
-
-### 💬  Real-Time Chat Application
-Backend-focused chat application built to understand real-time communication and database interactions.
-
-🔗 https://github.com/vs2311/chat-app
+🔗 **[View Project](https://github.com/vs2311/customer-churn-analysis-prediction)**
 
 ---
 
+## ❤️ Heart Disease Prediction
 
-✨ *Always learning. Always building.*
+**Python | Scikit-learn | KNN | Streamlit**
+
+Machine learning classification project for predicting the likelihood of heart disease from patient attributes.
+
+- Compared multiple classification models and evaluated their performance.
+- Selected **KNN** based on test performance.
+- Achieved **88.59% accuracy** and **89.86% F1-score** on the test set.
+- Implemented feature scaling and preprocessing for model training.
+- Built and deployed an interactive **Streamlit application** for predictions.
+
+🔗 **[View Project](https://github.com/vs2311/heart-disease-prediction)**
+
 ---
 
-## 📊 GitHub Stats
+## 💰 Sales Insights Dashboard
+
+**Power BI | SQL | Data Visualization**
+
+Interactive business intelligence dashboard analyzing **₹517M+ revenue** and sales performance.
+
+- Built KPI-driven dashboards for revenue, sales quantity and market performance.
+- Implemented **YoY growth analysis** and monthly trend analysis.
+- Analyzed product and regional performance.
+- Used SQL for data extraction and analysis.
+
+🔗 **[View Project](https://github.com/vs2311/sales-insights-powerbi-dashboard)**
+
+---
+
+## 📺 Netflix Data Analysis
+
+**Python | Pandas | Matplotlib | EDA**
+
+Exploratory data analysis of the Netflix titles dataset.
+
+- Cleaned and explored Netflix content data using Pandas.
+- Analyzed content trends, genres, release patterns and countries.
+- Created visualizations to identify patterns in Netflix's content library.
+
+🔗 **[View Project](https://github.com/vs2311/netflix-data-analysis)**
+
+---
+
+# 📚 Data & ML Practice
+
+## 🧠 Daily Data Practice
+
+Regular practice repository covering **SQL, Python, Pandas and data analysis problems**.
+
+🔗 **[View Repository](https://github.com/vs2311/daily-data-practice)**
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vs2311&show_icons=true&theme=tokyonight" />
@@ -91,7 +137,7 @@ Backend-focused chat application built to understand real-time communication and
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vs2311&theme=tokyonight" />
@@ -99,8 +145,12 @@ Backend-focused chat application built to understand real-time communication and
 
 ---
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs2311&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### ✨ Always Learning. Always Building. Always Improving.
