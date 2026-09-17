@@ -42,18 +42,19 @@
 
 # 🚀 Featured Projects
 
-## 🏥 Health Insurance Cost Prediction
+## ❤️ Heart Disease Prediction
 
-**Python | Pandas | NumPy | Scikit-learn | Linear Regression | Seaborn**
+**Python | Scikit-learn | KNN | Streamlit**
 
-Machine learning project focused on predicting healthcare insurance costs using customer demographic and lifestyle attributes.
+Machine learning classification project for predicting the likelihood of heart disease from patient attributes.
 
-- Performed data preprocessing and exploratory data analysis.
-- Analyzed relationships between customer attributes and insurance charges.
-- Built a **Linear Regression** model for insurance cost prediction.
-- Used Python-based visualization and statistical analysis to understand important patterns.
+- Compared multiple classification models and evaluated their performance.
+- Selected **KNN** based on test performance.
+- Achieved **88.59% accuracy** and **89.86% F1-score** on the test set.
+- Implemented feature scaling and preprocessing for model training.
+- Built and deployed an interactive **Streamlit application** for predictions.
 
-🔗 **[View Project](https://github.com/vs2311/Health-care-insurance)**
+🔗 **[View Project](https://github.com/vs2311/heart-disease-prediction)**
 
 ---
 
@@ -74,19 +75,18 @@ End-to-end analytics and machine learning project analyzing **7,043 telecom cust
 
 ---
 
-## ❤️ Heart Disease Prediction
+## 🏥 Health Insurance Cost Prediction
 
-**Python | Scikit-learn | KNN | Streamlit**
+**Python | Pandas | NumPy | Scikit-learn | Linear Regression | Seaborn**
 
-Machine learning classification project for predicting the likelihood of heart disease from patient attributes.
+Machine learning project focused on predicting healthcare insurance costs using demographic and lifestyle attributes.
 
-- Compared multiple classification models and evaluated their performance.
-- Selected **KNN** based on test performance.
-- Achieved **88.59% accuracy** and **89.86% F1-score** on the test set.
-- Implemented feature scaling and preprocessing for model training.
-- Built and deployed an interactive **Streamlit application** for predictions.
+- Performed data preprocessing and exploratory data analysis.
+- Analyzed relationships between customer attributes and insurance charges.
+- Built a **Linear Regression** model for insurance cost prediction.
+- Used Python-based visualization to identify important patterns in the dataset.
 
-🔗 **[View Project](https://github.com/vs2311/heart-disease-prediction)**
+🔗 **[View Project](https://github.com/vs2311/Health-care-insurance)**
 
 ---
 
@@ -119,38 +119,5 @@ Exploratory data analysis of the Netflix titles dataset.
 
 ---
 
-# 📚 Data & ML Practice
-
-## 🧠 Daily Data Practice
-
-Regular practice repository covering **SQL, Python, Pandas and data analysis problems**.
-
-🔗 **[View Repository](https://github.com/vs2311/daily-data-practice)**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vs2311&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vs2311&theme=tokyonight" />
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs2311&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### ✨ Always Learning. Always Building. Always Improving.
