@@ -5,7 +5,7 @@
 
 🎓 **B.Tech (Electronics & Communication Engineering)** student at **IIT (ISM) Dhanbad**  
 📊 Building projects in **Data Analytics, Machine Learning & Business Intelligence**  
-🐍 Working with **Python, SQL, Pandas, Scikit-learn, XGBoost & Power BI**  
+🐍 Working with **Python, SQL, Pandas, Scikit-learn, XGBoost, Random Forest, GenAI & Power BI**  
 📈 Interested in turning data into **insights, predictions, and actionable decisions**
 
 ---
