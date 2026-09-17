@@ -56,6 +56,10 @@ Machine learning classification project for predicting the likelihood of heart d
 
 🔗 **[View Project](https://github.com/vs2311/heart-disease-prediction)**
 
+
+## Live Demo
+
+[🚀 Try the Heart Disease Prediction App](https://heart-disease-prediction-y9i9zwzkxpcsxuezzhwk73.streamlit.app/)
 ---
 
 ## 📉 Customer Churn Analysis & Prediction
